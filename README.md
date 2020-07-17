@@ -8,4 +8,5 @@ Database used for storing information Microsoft SQL Server
 
 **************
 WebApplication1 contains all the webspages and related files
+\
 IDE used Visual Studio
